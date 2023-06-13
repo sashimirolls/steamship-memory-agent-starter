@@ -1,7 +1,7 @@
 {
 	"type": "package",
-	"handle": "mipo-memory-agent-pkg",
-	"version": "0.0.6",
+	"handle": "",
+	"version": "0.0.1",
 	"description": "",
 	"author": "",
 	"entrypoint": "Unused",
